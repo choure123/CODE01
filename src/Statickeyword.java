@@ -9,4 +9,4 @@ public class Statickeyword {
         m1();
     }
 }
-//statickeyword
+
